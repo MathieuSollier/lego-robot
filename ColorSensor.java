@@ -9,7 +9,6 @@ import lejos.robotics.filter.MeanFilter;
  * This class is made for controlling and knowing the currant status of the robot's claws.
  * All the packages are imported from LeJos, see the documentation at https://lejos.sourceforge.io/ev3/docs/
  * See all the details in the code's comments
- * @author Safé Chikh Hamouda
  */
 
 public class ColorSensor {
